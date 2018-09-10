@@ -28,13 +28,13 @@ nav a {
 
 nav a:hover {
     
-  background-color: #0000;
-  color: #4a423f;
+  background-color: #fff;
+  color: #4a4a4f;
 }
  
 nav a:active {
-  background-color: #f567;
-  color: #434;
+  background-color: #fff;
+  color: #444;
 }
 
 h1 {
